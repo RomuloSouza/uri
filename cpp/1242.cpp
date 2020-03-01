@@ -10,12 +10,9 @@ bool match(char a, char b){
 
 int main(int argc, char const *argv[])
 {
-    // string s;
     string s;
 
-    // char s[1000];
     while (cin >> s) {
-    // while (scanf(" %[^\n]", s) != EOF){
         stack<char> pilha;
         int count = 0;
 

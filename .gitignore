@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# VSCODE
+.vscode
+
+# IO files
+in.txt
+out.txt
+
+# Cpp
+*.out
+
 # C extensions
 *.so
 
